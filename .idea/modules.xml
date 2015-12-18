@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJavaFrame.iml" filepath="$PROJECT_DIR$/MyJavaFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtemplates/service/service.iml" filepath="$PROJECT_DIR$/webtemplates/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtemplates/webtemplates.iml" filepath="$PROJECT_DIR$/webtemplates/webtemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webtemplates/webx/webx.iml" filepath="$PROJECT_DIR$/webtemplates/webx/webx.iml" />
+    </modules>
+  </component>
+</project>
